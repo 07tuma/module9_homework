@@ -1,0 +1,21 @@
+.container {
+	width: fit-content;
+    margin: auto;
+}
+
+.output {
+	display: flex;
+	justify-content: center;
+	}
+
+.card {
+	margin: 20px;
+}
+
+.input {
+    width: 240px;
+}
+
+.btn {
+    height: 20px;
+}

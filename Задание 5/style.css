@@ -1,0 +1,41 @@
+.container {
+	width: fit-content;
+    margin: auto;
+}
+
+.input-bnt {
+	display: flex;
+	justify-content: center;
+}
+
+.output {
+	display: flex;
+	flex-wrap: wrap;
+	}
+
+.card {
+	width: 200px;
+	margin: 20px;
+}
+
+.card-image {
+	display: block;
+	width: 200px;
+	height: 150px;
+}
+
+.input {
+    width: 215px;
+}
+
+.btn {
+    height: 20px;
+	align-self: flex-end;
+}
+
+label {
+	display: flex;
+	flex-direction: column-reverse;
+	justify-content: center;
+	width: 230px;
+}
